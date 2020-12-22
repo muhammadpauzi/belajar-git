@@ -3,6 +3,5 @@ My Plans
 - Javascript Framework
   * i'm going to learn nodejs
   * i'm going to learn reactjs
-  * i'm going to learn angularjs
   * i'm going to learn vuejs
   * i'm going to learn expressjs
