@@ -1,5 +1,6 @@
 My Plans
 
 - i'm going to learn nodejs
-- i'm gonna to learn reactjs
-- i'm gonna to learn codeigniter 4
+- i'm going to learn reactjs
+- i'm going to learn codeigniter 4
+- i'm going to learn java
