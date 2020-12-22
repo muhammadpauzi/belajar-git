@@ -1,6 +1,6 @@
 My Plans PHP
 
 - i'm going to learn PHP Framwork
-  * Codeigniter 3
   * Codeigniter 4
-- Create a complate project login with codeigniter 3
+- Create a complate e-commerce website with codeingiter 4
+- Create a complate project login with codeigniter 4
